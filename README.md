@@ -1,8 +1,20 @@
-# React + Vite
+## Welcome! 👋
+Thanks for checking out this front-end coding challenge solution. The challenge was to build out this product list project that includes a functional cart and get it looking as close to the design as possible.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+Users can:
 
-Currently, two official plugins are available:
+- Add items to the cart and remove them.
+- Increase/decrease the number of items in the cart.
+- See an order confirmation modal when they click "Confirm Order."
+- Reset their selections when they click "Start New Order."
+- View the optimal layout for the interface depending on their device's screen size.
+- See hover and focus states for all interactive elements on the page.
+- View real-time updates to the cart's total price and item quantities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- React.js: For building reusable components and managing application state.
+- Tailwind CSS: For rapid and responsive UI styling.
+- React Hooks: Used for managing component state (e.g., useState and useEffect).
+- CSS Transitions: For subtle animations (e.g., order modal display).
